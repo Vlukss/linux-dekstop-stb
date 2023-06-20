@@ -1,3 +1,3 @@
-## Link nya disini
+## Link nya
 
-### Credits: <a href="https://github.com/Vlukss/main/arm64_bullseye">Arm64_bullseye</a> and <a href="https://github.com/Vlukss/main/arm64_focal">Arm64_focal
+### disini👉: <a href="https://github.com/Vlukss/main/arm64_bullseye/link">Arm64_bullseye</a> and <a href="https://github.com/Vlukss/main/arm64_focal/link">Arm64_focal
